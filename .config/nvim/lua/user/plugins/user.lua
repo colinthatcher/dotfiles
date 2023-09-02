@@ -7,6 +7,9 @@ return {
       open_mapping = [[<c-t>]],
     },
   },
+  {
+    "christoomey/vim-tmux-navigator",
+  },
   -- Add plugins, the lazy syntax
   -- "andweeb/presence.nvim",
   -- {
