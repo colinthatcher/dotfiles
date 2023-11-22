@@ -25,4 +25,8 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.ansible" },
+  { import = "astrocommunity.pack.html-css" },
+
+  -- Random
+  { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
